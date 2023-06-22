@@ -17,5 +17,6 @@ public class UsuarioDTO implements Serializable{
 	
 	private String password;	
 	
+	
 	private EmpleadoDTO empleado;
 }

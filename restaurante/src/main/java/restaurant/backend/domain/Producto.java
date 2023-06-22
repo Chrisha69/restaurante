@@ -22,7 +22,7 @@ public class Producto {
 	private String nombre;
 	
 	@Column
-	private String Caegoria;
+	private String Categoria;
 	
 	@Column
 	private double stock;
